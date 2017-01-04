@@ -2804,4 +2804,5 @@ pre a {
 }
 #jenkins-home-link {
     display: none !important
+    content: 'SAHAS'
 }
